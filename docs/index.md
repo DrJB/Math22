@@ -1,4 +1,4 @@
-# StatPREP Course Materials
+# Math B22 Course Materials
 
 > Note to instructors: If you are an instructor who was directed to this site so that you can set up your own web page, you'll find the instructions at <http://github.com/dtkaplan/stat101>. 
 
